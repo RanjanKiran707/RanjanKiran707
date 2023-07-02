@@ -2,15 +2,6 @@
 
 I'm a highly motivated and skilled Flutter Developer 📱 with a strong Computer Science background 💻. I'm passionate about building impactful mobile applications, contributing to innovative projects, and expanding my skills in a dynamic environment.
 
-## 🧰 Tech Stack
-
-- **Mobile Development**: Flutter | Flutter Bloc, Riverpod, Provider, GetX
-- **Backend**: Firebase | Express.js
-- **Frontend**: React | Tailwind CSS
-- **Databases**: SQL | MongoDB
-- **Data Science**: Python | pandas | NumPy | scikit-learn | matplotlib
-- **Other Skills**: OOPs | Data Structures and Algorithms
-
 ## 🚀 Recent Projects
 
 1. **[Cash Recorder](https://github.com/RanjanKiran707/cash_recorder):** A simple flutter app to manage household cashflow.
