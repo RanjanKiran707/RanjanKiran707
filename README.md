@@ -7,9 +7,6 @@ I'm a highly motivated and skilled Flutter Developer 📱 with a strong Computer
 1. **[Cash Recorder](https://github.com/RanjanKiran707/cash_recorder):** A simple flutter app to manage household cashflow.
 2. **[Mobile Music Discovery and Management](https://github.com/RanjanKiran707/yt_music_downloader_player):** A Flutter-based music app for YouTube music management.
 
-## 💬 Ask me about
-
-Anything related to Flutter Development, Backend Development with Firebase, or Front End Web Development with React and Tailwind CSS.
 
 ## 📫 How to reach me
 
