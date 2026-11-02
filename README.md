@@ -6,7 +6,7 @@ I'm a passionate **Flutter Mobile Developer** 📱 with a strong Computer Scienc
 
 ## 🚀 Featured Projects
 
-### 1. 📱 [Study Media Recorder](https://github.com/RanjanKiran707/study-media-recorder)
+### 1. 📱 [Study Media Recorder](https://github.com/RanjanKiran707/study-media-recorder) • [Live Demo](https://study-media-recorder.web.app)
 
 Android app for recording short audio and video explanations, organized in custom folders for playlist-based study revision.
 
