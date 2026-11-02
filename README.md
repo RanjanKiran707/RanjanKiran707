@@ -18,7 +18,7 @@ Android app for recording short audio and video explanations, organized in custo
 
 </details>
 
-### 2. 📺 [YouTube Video Organizer](https://github.com/RanjanKiran707/youtube-video-organizer)
+### 2. 📺 [YouTube Video Organizer](https://github.com/RanjanKiran707/youtube-video-organizer) • [Live Demo](https://yt-video-organizer.web.app)
 
 Android app to save and organize YouTube videos into custom nested folders directly via the native YouTube share sheet.
 
