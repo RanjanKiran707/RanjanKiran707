@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ranjan Padmakiran!
 
-I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong Computer Science background 💻. I'm dedicated to crafting clean, high-performance, and responsive cross-platform applications with robust offline-first architectures.
+I'm a passionate **Flutter Mobile Developer** 📱 with a strong Computer Science background 💻. I'm dedicated to crafting clean, high-performance, design-oriented and responsive cross-platform applications with robust offline-first architectures.
 
 ---
 
