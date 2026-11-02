@@ -30,7 +30,7 @@ Android app to save and organize YouTube videos into custom nested folders direc
 
 </details>
 
-### 3. 🏠 [Tenant Rent Tracker](https://github.com/RanjanKiran707/tenant-rent-tracker)
+### 3. 🏠 [Tenant Rent Tracker](https://github.com/RanjanKiran707/tenant-rent-tracker) • [Live Demo](https://tenant-tracker.web.app)
 
 A rent book and property management Flutter app for landlords to easily monitor tenant dues, payment history, and overdue balances.
 
