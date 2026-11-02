@@ -7,7 +7,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 ## 🚀 Featured Projects
 
 ### 1. 📱 [Study Media Recorder](https://github.com/RanjanKiran707/study-media-recorder)
-> Android app for recording short audio and video explanations, organized in custom folders for playlist-based study revision.
+
+Android app for recording short audio and video explanations, organized in custom folders for playlist-based study revision.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -18,7 +19,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 2. 📺 [YouTube Video Organizer](https://github.com/RanjanKiran707/youtube-video-organizer)
-> Android app to save and organize YouTube videos into custom nested folders directly via the native YouTube share sheet.
+
+Android app to save and organize YouTube videos into custom nested folders directly via the native YouTube share sheet.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -29,7 +31,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 3. 🏠 [Tenant Rent Tracker](https://github.com/RanjanKiran707/tenant-rent-tracker)
-> A rent book and property management Flutter app for landlords to easily monitor tenant dues, payment history, and overdue balances.
+
+A rent book and property management Flutter app for landlords to easily monitor tenant dues, payment history, and overdue balances.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -40,7 +43,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 4. 💬 [WhatsApp UI Clone](https://github.com/RanjanKiran707/whatsapp-clone)
-> A Flutter UI clone replicating WhatsApp's signature user interface, chat interactions, and UX design.
+
+A Flutter UI clone replicating WhatsApp's signature user interface, chat interactions, and UX design.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -51,7 +55,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 5. 🧮 [Calculator Cool UI](https://github.com/RanjanKiran707/calculator-cool-UI)
-> A modern calculator app featuring smooth, eye-catching theme switching animations between light and dark modes.
+
+A modern calculator app featuring smooth, eye-catching theme switching animations between light and dark modes.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -62,7 +67,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 6. 💰 [Cash Recorder](https://github.com/RanjanKiran707/cash_recorder)
-> A household cash flow and expense management application with support for nested bills and categorised tracking.
+
+A household cash flow and expense management application with support for nested bills and categorised tracking.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -73,7 +79,8 @@ I'm a passionate and skilled **Flutter & Mobile Developer** 📱 with a strong C
 </details>
 
 ### 7. 🌐 [Portfolio Responsive](https://github.com/RanjanKiran707/portfolio-site-responsive) • [Live Demo](https://portfolio-9a909.web.app/#/)
-> A fully responsive personal developer portfolio website built using Flutter Web to showcase projects and experience.
+
+A fully responsive personal developer portfolio website built using Flutter Web to showcase projects and experience.
 
 <details>
 <summary><b>Read more</b></summary>
