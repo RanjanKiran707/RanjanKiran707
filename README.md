@@ -94,11 +94,11 @@ A fully responsive personal developer portfolio website built using Flutter Web 
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Dart, C/C++, Java/Kotlin, Python
-- **Frameworks & UI:** Flutter (Android, Web), Material 3, Responsive UI
-- **State Management & Architecture:** BLoC, ValueNotifier, Provider, MVVM, Clean Layered Architecture
-- **Databases & Local Storage:** Drift (SQLite), Isar, Shared Preferences
-- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Firebase
+- **Languages:** Dart, C/C++, Python, SQL
+- **Frameworks & UI:** Flutter (Android, Web), React
+- **State Management & Architecture:** BLoC, ValueNotifier, Provider, Clean Architecture
+- **Tools & Platforms:** Git, GitHub, Firebase, Powersync, Postgres
+- **Backend:** REST APIs
 
 ---
 
