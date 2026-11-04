@@ -54,7 +54,7 @@ A Flutter UI clone replicating WhatsApp's signature user interface, chat interac
 
 </details>
 
-### 5. 🧮 [Calculator Cool UI](https://github.com/RanjanKiran707/calculator-cool-UI)
+### 5. 🧮 [Calculator Cool UI](https://github.com/RanjanKiran707/calculator-cool-UI) • [Live Demo](https://calculator-cool-ui.web.app)
 
 A modern calculator app featuring smooth, eye-catching theme switching animations between light and dark modes.
 
