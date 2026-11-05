@@ -78,15 +78,15 @@ A household cash flow and expense management application with support for nested
 
 </details>
 
-### 7. 🌐 [Portfolio Responsive ( OLD )](https://github.com/RanjanKiran707/portfolio-site-responsive) • [Live Demo](https://portfolio-9a909.web.app/#/)
+### 7. 🌐 [Personal Developer Portfolio](https://github.com/RanjanKiran707/new-portfolio) • [Live Demo](https://portfolio-9a909.web.app)
 
-A fully responsive personal developer portfolio website built using Flutter Web to showcase projects and experience.
+A sleek, modern developer portfolio website inspired by Brittany Chiang's v5 design, featuring two-column scrollspy navigation, dynamic cursor spotlight, and interactive project archive.
 
 <details>
 <summary><b>Read more</b></summary>
 
-- **Tech Stack:** Flutter Web, Responsive Layouts, Firebase Hosting
-- **Highlights:** Multi-device responsiveness (desktop, tablet, mobile), fluid web animations, live deployment.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Vite, Firebase Hosting
+- **Highlights:** Radial cursor torchlight, responsive sticky two-column layout, sibling card hover dimming, live Firebase deployment.
 
 </details>
 
