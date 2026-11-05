@@ -66,7 +66,7 @@ A modern calculator app featuring smooth, eye-catching theme switching animation
 
 </details>
 
-### 6. 💰 [Cash Recorder](https://github.com/RanjanKiran707/cash_recorder)
+### 6. 💰 [Cash Recorder](https://github.com/RanjanKiran707/cash_recorder) • [Live Demo](https://cash-recorder.web.app)
 
 A household cash flow and expense management application with support for nested bills and categorised tracking.
 
