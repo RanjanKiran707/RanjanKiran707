@@ -78,7 +78,7 @@ A household cash flow and expense management application with support for nested
 
 </details>
 
-### 7. 🌐 [Personal Developer Portfolio](https://github.com/RanjanKiran707/new-portfolio) • [Live Demo](https://portfolio-9a909.web.app)
+### 7. 🌐 [Personal Developer Portfolio](https://github.com/RanjanKiran707/new-portfolio) • [Live Demo](https://ranjan-padmakiran.web.app)
 
 A sleek, modern developer portfolio website inspired by Brittany Chiang's v5 design, featuring two-column scrollspy navigation, dynamic cursor spotlight, and interactive project archive.
 
